@@ -134,6 +134,7 @@ Structure
 - This allows flexible relation between  $\beta_i$ and $d(i)$, instead of arbitrarily assuming a functional form, like $\beta(d_i) = \gamma d_i$
 - $beta_i$ is estimated as if it is fixed effect in panel model.
 - But requires large number of choice occasions for each $i$. Incidental Parameters Problem.
+- The assumption on the source of IIA is the same as in Mixed Logit model
 ---
 
 ## Practical guidance and model selection
