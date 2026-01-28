@@ -1,4 +1,4 @@
-# Logit model and its microeconomic foundation
+# Logit Model and its Application in IO
 
 Date: 2025/11/15  
 Author: Yanjun Gao
